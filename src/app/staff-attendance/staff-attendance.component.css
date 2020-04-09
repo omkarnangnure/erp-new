@@ -1,0 +1,85 @@
+.btn
+{
+    width: 20% ;
+  background-color: light blue;
+}
+
+.mybtn
+{
+    width: 20%;
+     background-color:light blue;
+}
+
+body
+{
+	background-color: #f1f1f1;
+}
+.my
+{ 
+  width: 50%;
+  height: 100px;
+  padding: 10px;
+  float:left; 
+}
+.it
+{ 
+  width: 50%;
+  height: 100px;
+  padding: 10px;
+  float:right; 
+}
+
+input[type=text] {
+  width: 130px;
+  -webkit-transition: width 0.4s ease-in-out;
+  transition: width 0.4s ease-in-out;
+}
+
+/* When the input field gets focus, change its width to 100% */
+input[type=text]:focus {
+  width: 50%;
+}
+
+.in
+{
+	background-color: #fff;
+  padding: 10px;
+  margin: 0;
+  height: 90vh;
+  width: 100%;
+}
+
+.FirstSearch{
+	width: 49%;
+}
+
+.SecondSearch {
+	width: 49%;
+	float: right;
+}
+
+.spanme
+{
+	float: right;
+}
+
+#parent_div_1, #parent_div_2 {
+  width: 48%px;
+  height: 100px;
+  margin-right: 10px;
+  float: left;
+}
+.searchbtn
+{
+	width: 60px;
+	background-color:#ffae01;
+	margin-top: 5px;
+}
+.inputtext{
+	float: left;
+	margin-top: 5px;
+}
+sup
+{
+	color: red;
+}
